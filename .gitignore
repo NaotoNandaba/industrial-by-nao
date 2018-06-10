@@ -1,0 +1,23 @@
+### Tools ###
+.idea/
+*.iml
+
+### Minecraft Temp Files ###
+logs/
+realms_persistence.json
+usercache.json
+usernamecache.json
+
+### MODs Temp Files ###
+.mixin.out/
+liteconfig/liteloader.log
+liteconfig/liteloader.profiles.json
+mods/1.12.2/
+mods/VoxelMods/voxelMap/cache
+mods/VoxelMods/voxelMap/*.points
+
+### User Files ###
+saves/
+options.txt
+optionsof.txt
+optionsshaders.txt
